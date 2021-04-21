@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-
-Agus
-
-asdass
-=======
->>>>>>> 38cdfab (d)
